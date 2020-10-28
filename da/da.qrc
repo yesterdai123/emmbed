@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/da">
+        <file>images/images-sine.png</file>
+        <file>images/images-square.png</file>
+        <file>images/images-white.png</file>
+    </qresource>
+</RCC>
